@@ -3,7 +3,7 @@ site_url: https://kordwarshuis.github.io/tev2-garden-glossary/
 theme: material
 nav:
     - Home: index.md
-    - How To Install TEv2:
+    - Gardening terms:
           - Garden Hose: terms/garden-hose.md
           - Hedge Trimmer: terms/hedge-trimmer.md
           - Hoe: terms/hoe.md
