@@ -1,5 +1,7 @@
 # Garden glossary
 
+This repo: <https://github.com/kordwarshuis/tev2-garden-glossary>
+
 ## Introduction
 
 This is a sample glossary that uses the TEv2 tools.
