@@ -6,6 +6,14 @@ This is a sample glossary that uses the TEv2 tools.
 
 The glossary is about gardening. By choosing this real world example it is easier to understand what is TEv2 speak and what is the result.
 
+This repo is inspired by the TEv2 Minimal Viable Example (MVE) repo:
+
+Repo:
+<https://github.com/tno-terminology-design/tev2-mve>
+
+Website:
+<https://tno-terminology-design.github.io/tev2-mve/>
+
 ## Instructions
 
 Instructions how to make a glossary with TEv2.
