@@ -20,3 +20,5 @@ hrgt -f -c garden-glossary-config.yaml
 
 # https://tno-terminology-design.github.io/tev2-mve/how-to/resolve-termrefs/
 trrt -f -c garden-glossary-config.yaml
+
+trrt -f -c garden-glossary-config-specup.yaml
