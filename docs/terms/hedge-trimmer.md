@@ -13,9 +13,9 @@ glossaryNotes:
 - "Like [[ref: Term Two]] and [[ref: Term 3]], this term is defined for illustration purposes only."
 ---
 
-# Term 1
+# Hedge Trimmer
 
-**Term 1** is the first term we will define.
+**Hedge Trimmer** is the first term we will define.
 
 This page would contain proper documentation about the concept that `Term 1`, or any of its [form phrases](@tev2), would refer to.
 
