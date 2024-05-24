@@ -15,10 +15,10 @@ glossaryNotes:
 
 # Hedge Trimmer
 
-**Hedge Trimmer** is the first term we will define.
+A hedge trimmer, shrub trimmer, or bush trimmer[1][2] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors.
 
 This page would contain proper documentation about the concept that `Term 1`, or any of its [form phrases](@tev2), would refer to.
 
 ## Notes
 
-Like [[ref: Term Two]] and [[ref: Term 3]], this term is defined for illustration purposes only.
+Like [[ref: Garden Hose]] and [[ref: Hoe]], this term is defined for illustration purposes only.

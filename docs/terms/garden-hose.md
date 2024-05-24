@@ -15,10 +15,10 @@ glossaryNotes:
 
 # Garden Hose
 
-**Garden Hose** is the last term, because you know what they say: third term's the charm!
+A garden hose, hosepipe, or simply hose is a flexible tube used to convey water. There are a number of common attachments available for the end of the hose, such as sprayers and sprinklers (which are used to concentrate water at one point or to spread it over a large area). Hoses are usually attached to a hose spigot or tap.
 
 This remainder of this page would contain proper documentation about the concept that `Term 3`, or any of its [form phrases](@tev2), would refer to.
 
 ## Notes
 
-Like [[ref: Term 1]] and [[ref: Term Two]], this term is defined for illustration purposes only.
+Like [[ref: Hedge Trimmer]] and [[ref: Hoe]], this term is defined for illustration purposes only.
