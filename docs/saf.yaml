@@ -17,7 +17,8 @@ scope:
   defaultvsn: tev2-garden-glossary-terms
   # Base URL for creating links to rendered versions of Curated Texts.
   # It should also serve as the home page of the terminology.
-  website: https://kordwarshuis.github.io/tev2-garden-glossary
+  # website: https://kordwarshuis.github.io/tev2-garden-glossary
+  website: https://dwarshuis.com/test/garden-glossary/
   # Path to the directory where Curated Texts are rendered.
   # What `curatedir` is for Curated Texts, `navpath` is for
   # the rendered versions of Curated Texts.
