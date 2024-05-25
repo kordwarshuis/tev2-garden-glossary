@@ -23,3 +23,5 @@ Instructions how to make a glossary with TEv2.
 - Create an almost empty repo with only a README.md (<https://github.com/kordwarshuis/tev2-garden-glossary>)
 - Create a directory that is going to hold the documentation. `/docs` is common practice for the name of the directory.
 - Create a file called `saf.yaml`
+
+More content follows.
