@@ -15,7 +15,7 @@ glossaryNotes:
 
 # Hedge Trimmer
 
-A hedge trimmer, shrub trimmer, or bush trimmer[1][2] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors.
+A hedge trimmer, shrub trimmer, or bush trimmer is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors.
 
 ## Notes
 
