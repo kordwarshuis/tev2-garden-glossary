@@ -28,5 +28,6 @@ trrt -f -c garden-glossary-config-specup.yaml
 # Commit to the output branch
 git add .
 git commit -m "Commit to the output branch"
-# git push origin output --force
-git push origin output
+# git pull origin output
+git push origin output --force
+# git push origin output
