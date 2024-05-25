@@ -4,6 +4,7 @@
 
 # Create a new branch where we will store the output. This way we can keep the main branch clean.
 git checkout -b output
+# git checkout output
 
 # Run the TEv2 tools
 cd docs
@@ -22,3 +23,10 @@ hrgt -f -c garden-glossary-config.yaml
 trrt -f -c garden-glossary-config.yaml
 
 trrt -f -c garden-glossary-config-specup.yaml
+
+
+# Commit to the output branch
+git add .
+git commit -m "Commit to the output branch"
+# git push origin output --force
+git push origin output

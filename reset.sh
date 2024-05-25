@@ -7,7 +7,7 @@ git checkout main
 git branch -d output
 
 # Back to the main branch original starting pointå
-git reset --hard
+# git reset --hard
 
 # Remove everything untracked
-git clean -fd
+# git clean -fd
