@@ -17,8 +17,6 @@ glossaryNotes:
 
 A hoe is an ancient and versatile agricultural and horticultural hand tool used to shape soil, remove weeds, clear soil, and harvest root crops. Shaping the soil includes piling soil around the base of plants (hilling), digging narrow furrows (drills) and shallow trenches for planting seeds or bulbs. Weeding with a hoe includes agitating the surface of the soil or cutting foliage from roots, and clearing the soil of old roots and crop residues. Hoes for digging and moving soil are used to harvest root crops such as potatoes.
 
-This page would contain proper documentation about the concept that `Term 2`, or any of its [form phrases](@tev2), would refer to.
-
 ## Notes
 
 Like [[ref: Garden Hose]] and [[ref: Hedge Trimmer]], this term is defined for illustration purposes only.
