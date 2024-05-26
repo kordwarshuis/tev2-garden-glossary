@@ -9,6 +9,7 @@ nav:
           - Hoe: terms/hoe.md
           - Rake: terms/rake.md
           - Lawn mower: terms/lawn-mower.md
+          - Spade: terms/spade.md
 
 repo_url: "https://github.com/kordwarshuis/tev2-garden-glossary"
 repo_name: "Garden glossary"
