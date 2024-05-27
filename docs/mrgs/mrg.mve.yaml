@@ -1,0 +1,109 @@
+terminology:
+  scopetag: "mve"
+  scopedir: "https://github.com/kordwarshuis/tev2-garden-glossary/tree/main/docs"
+  curatedir: "terms"
+  glossarydir: "mrgs"
+  defaultvsn: "tev2-garden-glossary-terms"
+  website: "https://dwarshuis.com/test/garden-glossary/"
+  navpath: "/terms"
+  navid: "term"
+  defaulttype: "concept"
+  vsntag: "tev2-garden-glossary-terms"
+scopes: []
+entries:
+  - term: "garden-hose"
+    spec-up-term: "garden hose"
+    spec-up-aliases:
+      - "gardenhose"
+    spec-up-definition: "A garden hose, hosepipe, or simply hose is a flexible tube used to convey water. There are a number of common attachments available for the end of the hose, such as sprayers and sprinklers (which are used to concentrate water at one point or to spread it over a large area). Hoses are usually attached to a hose spigot or tap."
+    formPhrases:
+      - "garden-hose"
+      - "hosepipe"
+      - "hose"
+    glossaryTerm: "Garden hose"
+    glossaryText: "A garden hose, hosepipe, or simply hose is a flexible tube used to convey water. There are a number of common attachments available for the end of the hose, such as sprayers and sprinklers (which are used to concentrate water at one point or to spread it over a large area). Hoses are usually attached to a hose spigot or tap."
+    glossaryNotes:
+      - "Like [[ref: Term 1]] and [[ref: Term Two]], this term is defined for illustration purposes only."
+    scopetag: "mve"
+    locator: "garden-hose.md"
+    navurl: "https://dwarshuis.com/test/garden-glossary/terms/garden-hose"
+    headingids:
+      - "garden-hose"
+      - "notes"
+    termType: "concept"
+    termid: "concept:garden-hose"
+    vsntag: "tev2-garden-glossary-terms"
+  - term: "hedge-trimmer"
+    spec-up-term: "hedge trimmer"
+    spec-up-aliases:
+      - "bush trimmer"
+    spec-up-definition: "A hedge trimmer, shrub trimmer, or bush trimmer[1][2] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors."
+    formPhrases:
+      - "hedge-trimmer"
+      - "shrub-trimmer"
+      - "bush-trimmer"
+    glossaryTerm: "Hedge trimmer"
+    glossaryText: "A hedge trimmer, shrub trimmer, or bush trimmer[1][2] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors."
+    glossaryNotes:
+      - "Like [[ref: Term Two]] and [[ref: Term 3]], this term is defined for illustration purposes only."
+    scopetag: "mve"
+    locator: "hedge-trimmer.md"
+    navurl: "https://dwarshuis.com/test/garden-glossary/terms/hedge-trimmer"
+    headingids:
+      - "hedge-trimmer"
+      - "notes"
+    termType: "concept"
+    termid: "concept:hedge-trimmer"
+    vsntag: "tev2-garden-glossary-terms"
+  - term: "hoe"
+    spec-up-term: "Hoe"
+    spec-up-aliases: []
+    spec-up-definition: "A hoe is an ancient and versatile agricultural and horticultural hand tool used to shape soil, remove weeds, clear soil, and harvest root crops. Shaping the soil includes piling soil around the base of plants (hilling), digging narrow furrows (drills) and shallow trenches for planting seeds or bulbs. Weeding with a hoe includes agitating the surface of the soil or cutting foliage from roots, and clearing the soil of old roots and crop residues. Hoes for digging and moving soil are used to harvest root crops such as potatoes."
+    formPhrases:
+      - "hoe"
+    glossaryTerm: "Term 2"
+    glossaryText: "A hoe is an ancient and versatile agricultural and horticultural hand tool used to shape soil, remove weeds, clear soil, and harvest root crops. Shaping the soil includes piling soil around the base of plants (hilling), digging narrow furrows (drills) and shallow trenches for planting seeds or bulbs. Weeding with a hoe includes agitating the surface of the soil or cutting foliage from roots, and clearing the soil of old roots and crop residues. Hoes for digging and moving soil are used to harvest root crops such as potatoes."
+    glossaryNotes:
+      - "Like [[ref: Term One]] and [[ref: Term 3]], this term is defined for illustration purposes only."
+    scopetag: "mve"
+    locator: "hoe.md"
+    navurl: "https://dwarshuis.com/test/garden-glossary/terms/hoe"
+    headingids:
+      - "hoe"
+      - "notes"
+    termType: "concept"
+    termid: "concept:hoe"
+    vsntag: "tev2-garden-glossary-terms"
+  - term: "rake"
+    spec-up-term: "rake"
+    spec-up-aliases:
+      - "rake1"
+    scopetag: "mve"
+    locator: "rake.md"
+    navurl: "https://dwarshuis.com/test/garden-glossary/terms/rake"
+    formPhrases:
+      - "rake"
+    headingids:
+      - "rake"
+    termType: "concept"
+    termid: "concept:rake"
+    vsntag: "tev2-garden-glossary-terms"
+  - term: "spade"
+    spec-up-term: "Spade"
+    spec-up-aliases:
+      - "spade 1"
+      - "spade1"
+    spec-up-definition: "A spade is a tool primarily for digging consisting of a long handle and blade, typically with the blade narrower and flatter than the common shovel."
+    formPhrases:
+      - "spade"
+    glossaryTerm: "Spade"
+    glossaryText: "A spade is a tool primarily for digging consisting of a long handle and blade, typically with the blade narrower and flatter than the common shovel."
+    glossaryNotes:
+      - "Like [[ref: Term One]] and [[ref: Term 3]], this term is defined for illustration purposes only."
+    scopetag: "mve"
+    locator: "spade.md"
+    navurl: "https://dwarshuis.com/test/garden-glossary/terms/spade"
+    headingids: []
+    termType: "concept"
+    termid: "concept:spade"
+    vsntag: "tev2-garden-glossary-terms"

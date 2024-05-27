@@ -19,4 +19,4 @@ A hoe is an ancient and versatile agricultural and horticultural hand tool used 
 
 ## Notes
 
-Like [[ref: Garden Hose]] and [[ref: Hedge Trimmer]], this term is defined for illustration purposes only.
+Like <a href="/test/garden-glossary/terms/garden-hose" title="Garden hose: A garden hose, hosepipe, or simply hose is a flexible tube used to convey water. There are a number of common attachments available for the end of the hose, such as sprayers and sprinklers (which are used to concentrate water at one point or to spread it over a large area). Hoses are usually attached to a hose spigot or tap.">Garden Hose</a> and <a href="/test/garden-glossary/terms/hedge-trimmer" title="Hedge trimmer: A hedge trimmer, shrub trimmer, or bush trimmer[1][2] is a gardening tool or machine used for trimming (cutting, pruning) hedges or solitary shrubs (bushes). Different designs as well as manual and powered versions of hedge trimmers exist. Hedge trimmers vary between small hand-held devices to larger trimmers mounted on tractors.">Hedge Trimmer</a>, this term is defined for illustration purposes only.

@@ -1,0 +1,59 @@
+#
+# This is a Scope Administration File (SAF) that can be used in conjunction with Terminology Engine v2: https://tno-terminology-design.github.io/tev2-specifications/docs/category/introduction-overview.
+#
+scope:
+  # Identifier that we use as a name for this scope
+  scopetag: mve
+  # URL of the scope-directory within the repo
+  scopedir: https://github.com/kordwarshuis/tev2-garden-glossary/tree/main/docs
+  # path to directory where curated files are located.
+  # Full URL is `scopedir`/`curatedir`
+  curatedir: terms
+  # path to directory where all MRGs are located.
+  # Full URL is `scopedir`/`glossarydir`
+  glossarydir: mrgs
+  # vsntag that identifies the default terminology.
+  # Its MRG is located at `scopedir`/`glossarydir`/mrg.mve.yaml
+  defaultvsn: tev2-garden-glossary-terms
+  # Base URL for creating links to rendered versions of Curated Texts.
+  # It should also serve as the home page of the terminology.
+  # website: https://kordwarshuis.github.io/tev2-garden-glossary
+  website: https://dwarshuis.com/test/garden-glossary/
+  # Path to the directory where Curated Texts are rendered.
+  # What `curatedir` is for Curated Texts, `navpath` is for
+  # the rendered versions of Curated Texts.
+  navpath: /terms
+  # Name of a field that can be found in the front matter of a
+  # curated text file, that will be used to generate links that
+  # are routable by the static site generator that is being used.
+  # If not specified, the filename of the body file will be used.
+  navid: term
+#
+# The `scopes` section contains a mapping between scopetags
+# that are used within the scope, and the associated scopedirs.
+# This enables tools to find the SAF of these scopes,
+# and from there all other directories, files etc. that live
+# within them, e.g. to use/import their data.
+#
+scopes:
+  - scopetag: tev2 # name we use to identify the scope found at
+    # the URL of the scope-directory:
+    scopedir: https://github.com/tno-terminology-design/tev2-specifications/tree/master/docs
+#
+# The `versions` section specifies the terminologies
+# that are actively maintained by the curators of this scope.
+# For each (version of such a) terminology, termselection instructions
+# must be provided that specify which terms are to be included.
+# One of these section must have a `vsntag` that matches
+# the value of `defaultvsn` in the `scope`-section.
+#
+versions:
+  # this version contains all terms that are curated within this scope
+  - vsntag: tev2-garden-glossary-terms
+    termselection:
+      # include all terms that are curated within the current scope
+      - "*"
+# - vsntag: documentation # this version contains all terms we use to refer to in this site
+#   termselection:
+#   - "*"@tev2" # include all terms of the default TEv2 terminology
+#   - "*"       # include all terms that are curated within the current scope
