@@ -7,21 +7,23 @@ echo "Checking out main branch";
 git checkout main
 echo "Checking out main branch done";
 
-# Remove the output branch
+# Remove the output branch (if it exists). There will be no output branch if this is the first time we run this script.
 echo "Removing output branch";
 git branch -D output
 echo "Removing output branch done";
 
-# Create a new branch where we will store the output. This way we can keep the main branch clean.
+# Create a new branch called “output”, where we will store the output. This way we can keep the main branch clean.
 echo "Creating output branch";
 git checkout -b output
 echo "Creating output branch done";
 
 # Run the TEv2 tools
 echo "Running TEv2 tools";
+
+# Go to the docs folder
 cd docs
 
-# This step is to be taken only if your documentation uses terms that are defined elswhere (e.g., in another repo). In other cases, it can safely be skipped.
+# This step (mrg-import) is to be taken only if your documentation uses terms that are defined elswhere (e.g., in another repo). In other cases, it can safely be skipped.
 # https://tno-terminology-design.github.io/tev2-mve/how-to/import-mrgs/
 mrg-import -c garden-glossary-config.yaml
 
